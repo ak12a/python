@@ -1,0 +1,38 @@
+1 Python first compile the code 
+2 The compiler generate the bytecode
+3 The bytecode executed by PVM
+4 The PVM agin read the code and print the output
+
+
+
+
+####   How to check python is generating bytecode ########
+
+
+To generate byte-code you need to 
+
+# Go on project folder and run 
+# python -m  py_compile  sourcecode.py
+
+
+# it will generate a file inside folder named _pycache_ but it will not show the output 
+
+# To print the output you need to run The bytecode 
+
+Example: 
+# cd  _pycache_
+# python filename.pyc 
+
+
+
+
+# How to pack or make a package from your source code. 
+
+Suppose you have creteed a appliaction and you need to shae with client. do you sned source code or a package like .exe , .deb. or .rpm 
+
+
+To build in a package 
+
+1 ## pip install pyinstaller 
+2 ## pyinstaller project.py 
+
