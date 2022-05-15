@@ -1,5 +1,5 @@
-# python
-Python Scripting 
+# Python
+Python Scripting/Programing  
 In This Project we will learn  
 * How to use Python 
 * How to check Bytecode 
