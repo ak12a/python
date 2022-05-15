@@ -1,0 +1,23 @@
+
+
+Turob copiler only make .exe file from python Source Code. 
+
+
+GCC compiler use to compile the source code  for linux. 
+
+LLVM compimer use to compile code for Mac
+
+
+
+
+
+
+* When python compile the code it doesnot make machine code it makes Byte-code  and all other language make machine code. 
+
+
+* To run Byte-Code in any disto machine we need to install  PVM(Parallel Virtual Machine). and Pvm make compatible from byte code for any kind of distro machine.
+   ( Mac, windows ,Linux)
+
+
+* PVM (Parallel Virtual Machine) is a software package that permits a heterogeneous collection of Unix and/or Windows computers hooked together by a network to be used as a single large parallel computer. Thus large computational problems can be solved more cost effectively by using the aggregate power and memory of many computers. The software is very portable. The source, which is available free thru netlib, has been compiled on everything from laptops to CRAYs.
+
